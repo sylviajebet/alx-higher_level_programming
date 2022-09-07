@@ -38,4 +38,8 @@ A script that creates the database hbtn_0d_usa and the table cities (in the data
 
 A script that lists all the cities of California that can be found in the database hbtn_0d_usa.
 
+## 9-cities_by_state_join.sql
+
+A script that lists all cities contained in the database hbtn_0d_usa.
+
 ## 
