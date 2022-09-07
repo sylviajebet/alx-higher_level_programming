@@ -5,8 +5,10 @@
 -- Only genres with shows; Ordered by number of shows DESC
 -- Only one SELECT statement
 
-SELECT tv_g.name AS genre, COUNT(show_id) AS number_of_shows FROM tv_genres tv_g
-INNER JOIN tv_show_genres tv_s_g
-ON tv_g.id = tv_s_g.genre_id
-GROUP BY tvs_g.genre_id
-ORDER BY number_of_shows DESC;
+SELECT tv_g.name AS genre
+       COUNT(*) AS number_of_shows
+  FROM tv_genres AS tv_g
+       INNER JOIN tv_show_genres AS tv_s_g
+       ON tv_g.id = tv_s_g.genre_id
+ GROUP BY tv_g.name
+ ORDER BY number_of_shows DESC;
