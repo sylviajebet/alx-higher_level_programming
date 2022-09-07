@@ -66,4 +66,6 @@ A script that uses the hbtn_0d_tvshows database to lists all genres of the show 
 
 A script that lists all Comedy shows in the database hbtn_0d_tvshows.
 
-## 
+## 16-shows_by_genre.sql
+
+A script that lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows.
