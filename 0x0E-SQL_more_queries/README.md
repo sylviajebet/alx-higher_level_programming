@@ -22,4 +22,8 @@ A script that creates the table force_name on your MySQL server.
 
 A script that creates the table id_not_null on your MySQL server.
 
+## 5-unique_id.sql
+
+A script that creates the table unique_id on your MySQL server.
+
 ## 
