@@ -38,4 +38,6 @@ A script that prints x times “C is fun”.
 
 A script that prints a square.
 
-## 
+## 9-add.js
+
+A script that prints the addition of 2 integers.
