@@ -41,3 +41,9 @@ A script that prints a square.
 ## 9-add.js
 
 A script that prints the addition of 2 integers.
+
+## 10-factorial.js
+
+A script that computes and prints a factorial.
+
+## 
