@@ -34,4 +34,8 @@ A script that prints 3 lines: (like 1-multi_languages.js) but by using an array 
 
 A script that prints x times “C is fun”.
 
+## 8-square.js
+
+A script that prints a square.
+
 ## 
