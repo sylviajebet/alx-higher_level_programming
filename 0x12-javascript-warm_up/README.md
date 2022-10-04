@@ -53,3 +53,7 @@ A script that searches the second biggest integer in the list of arguments.
 ## 12-object.js
 
 A script to replace the value 12 with 89.
+
+## 13-add.js
+
+A function that returns the addition of 2 integers.
